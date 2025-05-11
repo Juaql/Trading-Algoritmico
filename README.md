@@ -1,0 +1,1 @@
+# Proyectos de Trading Algorítmico
